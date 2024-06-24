@@ -1,0 +1,2 @@
+/Game/UI/WBP_Ability_Power_Choice.Default__WBP_Ability_Power_Choice_C
+/Game/UI/WBP_Ability_Power_Choice.WBP_Ability_Power_Choice_C
